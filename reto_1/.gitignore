@@ -74,3 +74,10 @@ out/
 .yarn/unplugged
 .yarn/install-state.gz
 .pnp.*
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/

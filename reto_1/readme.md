@@ -38,4 +38,6 @@ npx playwright show-report
 ```text
 tests/                  Pruebas automatizadas
 playwright.config.js    Configuración de Playwright
+
+setup
 ```

@@ -1,0 +1,15 @@
+{
+  "name": "reto_1",
+  "version": "1.0.0",
+  "description": "Proyecto sencillo de automatización de pruebas end-to-end con [Playwright](https://playwright.dev/).",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  }
+}
